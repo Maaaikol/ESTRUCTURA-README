@@ -3,7 +3,7 @@
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
 
 <details>
-  <summary><b>INSTRUCCIONES DE ENTREGA<b></summary>
+  <summary>INSTRUCCIONES DE ENTREGA:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 <details>
     
@@ -16,10 +16,12 @@ Para asegurar una evaluación justa de tus habilidades en programación en C++, 
 
 </details>
 <details>
-  <summary>Fichero ZIP</summary>
+  <summary>Fichero ZIP:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
 Al finalizar, descarga tu repositorio como un archivo ZIP con el nombre Apellido_Nombre_ExamenCPP.zip.
+
+</p>
 
 </details>
 <details>
@@ -31,12 +33,16 @@ Un enlace directo al repositorio.
 Una breve descripción de cada ejercicio resuelto y el archivo donde se encuentra.
 Usa Markdown para estructurar tu README.
 
+</p>
+
 </details>
 <details>
   <summary>Entrega: </summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
 Sube el archivo ZIP a la plataforma indicada antes de la fecha límite.
+
+</p>
 
 </details>
 <details>
@@ -46,18 +52,22 @@ Sube el archivo ZIP a la plataforma indicada antes de la fecha límite.
 Organiza y comenta tu código para que sea fácil de leer y entender.
 Si utilizas referencias externas, inclúyelas en el README.md.
 
+</p>
+
 </details>
 
 </details>
 
 <details>
-  <summary>EJERCICIOS</summary>
+  <summary>EJERCICIOS:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 <details>
   <summary>EJ1</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
 EJ 1
+
+</p>
 
 </details>
 <details>
@@ -66,12 +76,16 @@ EJ 1
 
 EJ 2
 
+</p>
+
 </details>
 <details>
   <summary>EJ3</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
 EJ 3
+
+</p>
 
 </details>
 <details>
@@ -80,6 +94,8 @@ EJ 3
 
 EJ 4
 
+</p>
+
 </details>
 </details>
 <details>
@@ -87,6 +103,8 @@ EJ 4
   <p style="font-size: 12px; line-height: 1.4;">
 
   [Repositorio GitHub](https://github.com/Maaaikol/README.git)
+
+</p>
 
 </details>
 
