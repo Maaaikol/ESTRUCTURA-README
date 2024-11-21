@@ -3,7 +3,7 @@
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
 
 <details>
-  <summary>INSTRUCCIONES DE ENTREGA</summary>
+  <summary><b>INSTRUCCIONES DE ENTREGA<b></summary>
   <p style="font-size: 12px; line-height: 1.4;">
 <details>
     
