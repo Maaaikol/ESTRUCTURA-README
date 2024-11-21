@@ -71,6 +71,6 @@ EJ 4
 <details>
   <summary>LINK DEL REPOSITORIO:</summary>
 
-LINK
+  [Repositorio GitHub](https://github.com/usuario/repositorio)
 
 </details>
