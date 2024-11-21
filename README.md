@@ -1,4 +1,4 @@
-# Examen de Programación en C++
+# Examen de Programación.
 #### Estimado estudiante,
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
 
