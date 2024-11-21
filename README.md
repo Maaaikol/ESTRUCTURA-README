@@ -75,4 +75,5 @@ EJ 4
 
 </details>
 
-![Mi Imagen](uax_logo_nuevo.png)
+<img src="uax_logo_nuevo.png" alt="UAX Logo" width="400">
+
