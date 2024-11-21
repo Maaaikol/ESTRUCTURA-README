@@ -71,6 +71,6 @@ EJ 4
 <details>
   <summary>LINK DEL REPOSITORIO:</summary>
 
-  [Repositorio GitHub](https://github.com/usuario/repositorio)
+  [Repositorio GitHub](https://github.com/Maaaikol/README.git)
 
 </details>
