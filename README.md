@@ -75,4 +75,4 @@ EJ 4
 
 </details>
 
-![Mi Imagen]()
+![Mi Imagen](uax_logo_nuevo.png)
