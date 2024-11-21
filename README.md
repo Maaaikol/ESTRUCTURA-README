@@ -74,3 +74,6 @@ EJ 4
   [Repositorio GitHub](https://github.com/Maaaikol/README.git)
 
 </details>
+
+![Mi Imagen](![uax_logo_nuevo](https://github.com/user-attachments/assets/a2f83aeb-5076-41ba-86cf-dea09e9aa071)
+)
